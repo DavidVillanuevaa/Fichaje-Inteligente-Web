@@ -23,5 +23,6 @@
 - Datos guardados en una base de datos local del navegador (`IndexedDB`).
 
 <img width="661" height="907" alt="image" src="https://github.com/user-attachments/assets/42a225a6-c75b-4222-b39c-55e83e764ae5" />
-<img width="661" height="691" alt="image" src="https://github.com/user-attachments/assets/f305461b-0c2c-4671-bbf8-f711dbab7e18" />
+<img width="661" height="511" alt="image" src="https://github.com/user-attachments/assets/b890cb57-08bd-47b8-85d4-a09146a57187" />
+
 
