@@ -21,6 +21,7 @@
 - Cronómetro de fichaje: iniciar, pausar/reanudar, finalizar y guardar automáticamente.
 - Edición de fichajes guardados haciendo clic en la semana y ajustando horas de inicio/fin.
 - Datos guardados en una base de datos local del navegador (`IndexedDB`).
-<img width="1334" height="876" alt="image" src="https://github.com/user-attachments/assets/ddcdfb72-5c7e-4dd1-a16f-ebaa380a8846" />
-<img width="1878" height="919" alt="image" src="https://github.com/user-attachments/assets/7efc3871-0d0e-4378-904d-339c5fc30c27" />
+
+<img width="661" height="907" alt="image" src="https://github.com/user-attachments/assets/42a225a6-c75b-4222-b39c-55e83e764ae5" />
+<img width="661" height="691" alt="image" src="https://github.com/user-attachments/assets/f305461b-0c2c-4671-bbf8-f711dbab7e18" />
 
