@@ -22,3 +22,5 @@
 - Edición de fichajes guardados haciendo clic en la semana y ajustando horas de inicio/fin.
 - Datos guardados en una base de datos local del navegador (`IndexedDB`).
 <img width="1334" height="876" alt="image" src="https://github.com/user-attachments/assets/ddcdfb72-5c7e-4dd1-a16f-ebaa380a8846" />
+<img width="1878" height="919" alt="image" src="https://github.com/user-attachments/assets/7efc3871-0d0e-4378-904d-339c5fc30c27" />
+
